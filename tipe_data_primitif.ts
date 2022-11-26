@@ -25,4 +25,9 @@ age = 20;
 let nama: string = "Marsudi";
 let hello: string = `Hello nama saya ${nama}`;
 
+<<<<<<< HEAD
+=======
+console.log(nama);
+
+>>>>>>> 180d9d6... Tipe Data
 
