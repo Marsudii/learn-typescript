@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-enum Gender { Male, Female, Other }
 
-let jenisKelaminMale: Gender = Gender.Male;
-let jenisKelaminFemale: Gender = Gender.Female;
-=======
+
+
 //TIPE DATA ENUM TYPESCRIPT
 enum Gender { Male, Female, Other }
 
@@ -36,4 +33,3 @@ let udi:statusPekerjaan = statusPekerjaan.KaryawanTetap;
 
 console.log(marsudi);
 console.log(udi);
->>>>>>> 180d9d6... Tipe Data
